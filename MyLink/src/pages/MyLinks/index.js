@@ -19,10 +19,10 @@ export default function MyLinks() {
             <Title>Meus Links</Title>
 
             <ListLinks 
-             data={[{id: 1, link: "text.com"}, {id: 2, link: "text.com"} ]}
+             data={ [ {id: 1, link: 'test.com'}, {id: 2, link: 'test.com'} ]}
              keyExtractor={ (item) => String(item.id) }
              renderItem={ ({ item }) => <ListItem data={item} /> }
-             contentContainerStyle={{paddingBotom: 20}}
+             contentContainerStyle={{paddingBottom: 22}}
              showVerticalScrollIndicator={false}
             />
 
