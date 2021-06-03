@@ -12,6 +12,7 @@ import { ContainerLogo, Logo, ContainerContent, Title, SubTitle, ContainerInput,
     BoxIcon, Input, ButtonLink, ButtonLinkText } from './style';
 
 import api from '../../services/api';
+import { saveLink } from '../../utils/storeLinks'
 
 export default function Home() {
 
@@ -33,6 +34,8 @@ export default function Home() {
             setData(response.data);
             setModalVisible(true);
 
+
+            saveLink('storageLinks', response.data);
 
             Keyboard.dismiss();
             setLoading(false);
