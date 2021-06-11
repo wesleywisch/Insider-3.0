@@ -38,4 +38,4 @@ Projeto que desenvolvemos durante o evento Insider do [sujeitoprogramador](https
 
 <h2 id="licenca"> ⚠️  Licença</h2>
 
-Esse projeto esta sobre a licença [MIT](https://github.com/wesleywisch/Repositorio-MongoDB/blob/main/LICENSE).
+Esse projeto esta sobre a licença [MIT](https://github.com/wesleywisch/Insider-3.0/blob/main/LICENSE).
