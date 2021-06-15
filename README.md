@@ -25,7 +25,7 @@ Projeto que desenvolvemos durante o evento Insider do [sujeitoprogramador](https
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:  [Git](https://git-scm.com/),  [Expo](https://expo.io/). Além disto é bom ter um editor para trabalhar com o código como  [VSCode](https://code.visualstudio.com/)
 
 ```
-# Obs: Dentro da pasta (src) e dentro de (services) no api.js você deverá colocar a sua key que foi gerada no Bitly para que a aplicacão funcione perfeitamente.
+# Obs: Dentro da pasta (src) e dentro de (services) no api.js você deverá colocar a sua key que foi gerada no Bitly para que a aplicação funcione perfeitamente.
 
 # Clone este repositório
 $ git clone https://github.com/wesleywisch/Insider-3.0.git
@@ -36,21 +36,21 @@ $ cd MyLink
 # Instale as dependências
 $ npm install
 
-# É necessario ter o expo baixado
+# É necessário ter o expo baixado
 $ https://expo.io/
 
-# Depois de baixado o expo você tera duas opções de inicialização
-$ 1° opção: é necessario ter o andoid studio baixado (https://developer.android.com/studio)
-$ 2° opção: baixar no seu celular o (Expo Go), que serve tanto andoid como ios.
+# Depois de baixado o expo você terá duas opções de inicialização
+$ 1° opção: é necessário ter o android studio baixado (https://developer.android.com/studio)
+$ 2° opção: baixar no seu celular o (Expo Go), que serve tanto Android como iOS.
 
-# Se optar pela 2° opção ja pare por aki que já estará rodando. 
-$ Quando o (Expo Go) for baixado entrar e clicar em Scan QR Code e a camera irá abrir e só apontar ela para o QR code que apareceu lá no site do expo qua abriu no navegador.
+# Se optar pela 2° opção já pare por aqui que já estará rodando. 
+$ Quando o (Expo Go) for baixado entrar e clicar em Scan QR Code e a câmera irá abrir e só apontar ela para o QR code que apareceu lá no site do expo quando abriu no navegador.
 
-# Se optar pela 1° opção segue esses passos abaixaos:
+# Se optar pela 1° opção segue esses passos abaixos:
 
 # Entre na pasta do projeto pelo cmd (Prompt de Comando), mais entre no MyLink
 $ e inicializa o projeto dando expo start
-$ Abra o andoid studio e confugure o seu celuar da melhor forma que preferir e abre ele.
+$ Abra o android studio e configure o seu celular da melhor forma que preferir e abre ele.
 
 # Run the app (Android)
 $ Aperte no (Run on Android device/emulator)
